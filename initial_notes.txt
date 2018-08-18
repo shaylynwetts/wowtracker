@@ -1,0 +1,33 @@
+Design:
+
+- rectangle shape outer container
+- tabs for each category
+- portrait images (like in collections tab in game)
+- backlit/border (decide later coloring style) to indicate desirablity i.e. trying to get, got, not trying to get.  All stuff that would be user preference rather than base information
+- write player progress to a file for future loading (only stuff that isn't populated from wow client?)
+
+Features:
+
+* CONNECTION *
+- connect to wow database
+- search character by name and realm
+- populate certain data and progress for the character through that 
+
+* BATTLE PETS TRACKER *
+- very basic because warcraftpets can do most things on it's own
+- all pets with descriptions and locations
+- can sort by alphabet, species, type (critter, mechanical, etc.)
+- can filter by availability (always, weather, events, no longer available, etc.)
+
+* REPUTATION TRACKER *
+- keeps track of current reputation with each faction
+- includes location
+- includes what dailies exist and how to do them and how much rep you get from each task
+- area that lists what you can buy from that faction at certain reps (mounts, tabards, etc.)
+
+
+
+TODO:
+
+- gather ideas
+- add bun to git and taiga
